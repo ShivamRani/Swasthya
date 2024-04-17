@@ -1,0 +1,51 @@
+.land-div{
+    margin-top: 30px;
+}
+
+.col-1{
+    /* padding: 10px 100px 10px 300px; */
+    background-color: #E2F0EF;
+    padding: 20px;
+    border-radius: 25px; 
+    height: 34vh;   
+}
+
+.sub-col-1{
+    text-align: center;
+}
+
+.col-1 img{
+    width: 200px;
+    height: 200px;
+    align-self: center;
+}
+
+.sub-col-2{
+    text-align: right;
+}
+
+.sub-col-2 .p-1{
+    margin-top: 20px;
+    margin-bottom: 0;
+}
+
+.col-2{
+    /* background-color: #F8F8F8; */
+    /* margin: 10px; */
+    margin-top: -50px;
+    padding: 40px;
+    
+}
+
+.color{
+    background-color: #F8F8F8;
+    border-radius: 25px;
+padding: 30px;
+}
+
+.group{
+    text-align: center;
+}
+.map{
+    margin-top: 50px;
+}
